@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I am Ozan. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python for programming.
+Hello, I am Ozan. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
 <!--
 **demirelozan/demirelozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
