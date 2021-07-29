@@ -3,13 +3,13 @@
 <img src="https://github.com/demirelozan/demirelozan/blob/main/hi.gif" width="75" height="75" />
 
 #**Ozan Demirel**
-I am Ozan from Turkey. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
+-I am Ozan from Turkey. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
 Also I have some experience in Web Development.
 
 ##**Skills and Expertise**
-⚙  C 
-💻 C#, Python
-🕹 Unity3D
+- ⚙  C 
+- 💻 C#, Python
+- 🕹 Unity3D
 <!--
 **demirelozan/demirelozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
