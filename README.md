@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Alt Text](https://tenor.com/bq0Lm.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 Hello, I am Ozan. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
 <!--
