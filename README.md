@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://tenor.com/bq0Lm.gif
+![I am GitHub Readme Generator's creator](https://tenor.com/bq0Lm.gif)
 
 Hello, I am Ozan. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
 <!--
