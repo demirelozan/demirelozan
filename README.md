@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Alt Text](https://github.com/demirelozan/demirelozan/blob/main/hi.gif)
 <img src="https://github.com/demirelozan/demirelozan/blob/main/hi.gif" width="100" height="100" />
 
 Hello, I am Ozan. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
