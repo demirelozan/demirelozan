@@ -4,7 +4,7 @@
 
 #**Ozan Demirel**
 -I am Ozan from Turkey. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
-Also I have some experience in Web Development.
+-Also I have some experience in Web Development.
 
 ##**Skills and Expertise**
 - ⚙  C 
