@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div class="tenor-gif-embed" data-postid="18791778" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/covid-hi-hello-hey-hey-there-gif-18791778">Covid Hi GIF</a> from <a href="https://tenor.com/search/covid-gifs">Covid GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 Hello, I am Ozan. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
 <!--
 **demirelozan/demirelozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
