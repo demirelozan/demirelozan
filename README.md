@@ -2,7 +2,6 @@
 
 <img src="https://github.com/demirelozan/demirelozan/blob/main/hi.gif" width="75" height="75" />
 
-#**Ozan Demirel**
 
 I am Ozan from Turkey. I am currently studying at Istanbul Technical University. I love working on Game Development and Audio Technologies. Currently, I use C, C# and Python.
 Also I have some experience in Web Development.
@@ -18,7 +17,6 @@ Also I have some experience in Web Development.
 - 🔭 I’m currently working on Ogus Games.
 - 🌱 I’m interested in Game Development, Audio Programming and AI.
 - 💬 You can ask me anything that you think I can answer.
-- 📫 You can reach me via email: ozan.demirel@hotmail.com.
 - ⚡ Fun fact: I love playing games and making music.
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demirelozan)](https://github.com/anuraghazra/github-readme-stats)
