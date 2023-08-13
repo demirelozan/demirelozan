@@ -3,7 +3,7 @@
 <img src="https://github.com/demirelozan/demirelozan/blob/main/hi.gif" width="75" height="75" />
 
 
-I am Ozan from Turkey. I am currently studying at Istanbul Technical University. I love working on Game Development, Mobile Development and Audio Technologies. Currently, I use C, C#, Swift and Python.
+I am Ozan from Turkey. I love working on Game Development, Mobile Development and Audio Technologies. Currently, I use C, C#, Swift and Python.
 Also I have some experience in Web Development.
 
 ##**Skills and Expertise**
