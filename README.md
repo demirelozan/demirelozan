@@ -15,8 +15,8 @@ Also I have some experience in Web Development.
 **demirelozan/demirelozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ###**About Me**
-- 🔭 I’m currently working as an IOS Developer.
-- 🌱 I’m interested in Game Development, Audio Programming and AI.
+- 🔭 I’m currently working as a Game Designer.
+- 🌱 I’m interested in Game Development, iOS Development, Audio Programming and AI.
 - 💬 You can ask me anything that you think I can answer.
 - ⚡ Fun fact: I love playing games and making music.
 <!--
