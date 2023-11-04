@@ -16,7 +16,7 @@ Also I have some experience in Web Development.
 -->
 ###**About Me**
 - 🔭 I’m currently working as a Game Designer.
-- 🌱 I’m interested in Game Development, iOS Development, Audio Programming and AI.
+- 🌱 I’m interested in Game Development, iOS Development, Audio Programming and Machine Learning Applications in Gaming & Music.
 - 💬 You can ask me anything that you think I can answer.
 - ⚡ Fun fact: I love playing games and making music.
 <!--
