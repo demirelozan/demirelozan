@@ -3,8 +3,8 @@
 <img src="https://github.com/demirelozan/demirelozan/blob/main/hi.gif" width="75" height="75" />
 
 
-I am Ozan from Turkey. I love working on Machine Learning, Game Development, Mobile Development, and Audio Technologies. Currently, I use C, C#, Swift, and Python.
-Also have some experience in Web Development.
+I am Ozan from Turkey. I love working on Machine Learning, Game Development, Mobile Development, and Audio Technologies. I mainly use Python, C#, Swift, and C.
+Also, have some experience in Web Development.
 
 ##**Skills and Expertise**
 - ⚙  C 
