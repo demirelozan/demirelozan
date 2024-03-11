@@ -20,7 +20,7 @@ Also, have some experience in Web Development.
 - 💬 You can ask me anything that you think I can answer.
 - ⚡ Fun fact: I love playing games and making music.
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demirelozan)](https://github.com/anuraghazra/github-readme-stats)
+[![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=demirelozan)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
